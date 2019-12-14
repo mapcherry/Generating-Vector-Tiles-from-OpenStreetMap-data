@@ -1,4 +1,4 @@
-# Generating-Vector-Tiles-from-OpenStreetMap-data
+# Generating VectorTiles from OpenStreetMap data workshop
 
 ## Prerequisites
 * Docker
