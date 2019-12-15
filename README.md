@@ -11,7 +11,7 @@
 ## Clone OpenMapTiles repository
 
 ```
-git clone git@github.com:openmaptiles/openmaptiles.git
+git clone https://github.com/openmaptiles/openmaptiles.git
 cd openmaptiles
 ```
 
